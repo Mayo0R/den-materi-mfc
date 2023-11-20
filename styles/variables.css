@@ -1,9 +1,9 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
 :root {
   --main-font: Inter;
-  --main-font-text-weight: 400;
-  --main-font-header-weight: 700;
-  --main-font-title-weight: 580;
+  --main-font-text-weight: 600;
+  --main-font-header-weight: 900;
+  --main-font-title-weight: 700;
   --bg-color: #fff;
   --text-color: #000;
   --accent-color: #E74748;
